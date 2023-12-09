@@ -1,0 +1,1049 @@
+   #prev next
+
+   ForoBeta | Foro de webmasters
+
+   Menú
+   ForoBeta | Foro de webmasters
+   ForoBeta | Foro de webmasters
+     * Nuevas
+       Tendencia Última actividad
+     * Foros
+
+   Acceder Registro
+   Novedades Buscar
+
+Buscar
+
+   ____________________ [En todos lados]
+   [ ] Buscar sólo en títulos
+   De: ____________________
+   (BUTTON) Buscar Búsqueda avanzada…
+   Menú
+   Acceder
+     __________________________________________________________________
+
+   Registro
+     __________________________________________________________________
+
+     * Foros
+
+     Comunidad
+
+     Fuera de tema
+
+   JavaScript está desactivado. Para una mejor experiencia, hay que
+   activar JavaScript en el navegador antes de proceder.
+
+   Estás usando un navegador obsoleto. No se pueden mostrar este u otros
+   sitios web correctamente.
+   Se debe actualizar o usar un navegador alternativo.
+
+Tema para preguntas random a Chatgpt 🤖
+
+     * Autor Carlos Arreola
+     * Fecha de inicio 13 Mar 2023
+
+   Ant
+     * 1
+     * …
+
+Ir a la página
+       662_________________
+       (BUTTON) Ir
+     * 663
+     * 664
+     * 665
+     * 666
+     * 667
+     * …
+
+Ir a la página
+       668_________________
+       (BUTTON) Ir
+     * 715
+
+   Siguiente
+   Primero Ant 665 de 715
+
+Ir a la página
+
+   665_________________
+   (BUTTON) Ir
+   Siguiente Último
+
+   B
+
+blankito1998
+
+   Beta
+   Verificación en dos pasos desactivada
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          21 Oct 2022
+
+   Mensajes
+          64
+
+     * 27 Oct 2023
+
+     *
+     * #13.281
+
+   BotBeta dijo:
+
+   ¡Por supuesto! Este es tu script modificado para que muestre el número
+   de búsquedas fallidas.
+   Insertar CODE, HTML o PHP:
+@echo off
+setlocal enabledelayedexpansion
+set /a count=0
+:loop
+    CLS
+    netsh wlan show networks | findstr /i "princesa"
+    if %ERRORLEVEL% EQU 0 (
+        echo La red princesa está disponible.
+        netsh wlan connect name=princesa
+        call C:\new\start.bat
+        set /a count=0
+    ) else (
+        set /a count+=1
+        echo La red princesa no está disponible. Cantidad de búsquedas fallidas:
+ !count!
+    )
+    if !count! gtr 9 (
+        echo Ejecutando función por más de 10 búsquedas fallidas.
+        rem Aquí tu función
+        set /a count=0
+    )
+    timeout /t 5 /nobreak
+goto loop
+
+   Ahora cada vez que la búsqueda de la red "princesa" falle, el script
+   mostrará cuántas veces ha fallado hasta ahora. Además, después de que
+   la búsqueda haya fallado 10 veces, se ejecutará la función adicional y
+   el contador de búsquedas fallidas se restablecerá a 0.
+   Hacer clic para expandir...
+
+   Sabes cómo puedo acelerar el internet en Windows 7??
+   Y otra pregunta, porque cuando comparto internet desde mi PC se coloca
+   lento el wifi?
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 27 Oct 2023
+
+     *
+     * #13.282
+
+   blankito1998 dijo:
+
+   Sabes cómo puedo acelerar el internet en Windows 7??
+   Y otra pregunta, porque cuando comparto internet desde mi PC se coloca
+   lento el wifi?
+   Hacer clic para expandir...
+
+   1. Para acelerar tu Internet en Windows 7, puedes, por ejemplo:
+     * Actualizar el navegador que estás utilizando.
+     * Asegurarte de que estás usando los controladores de red más
+       actualizados.
+     * Limitar el ancho de banda reservado de Windows: ingresa a
+       "gpedit.msc" en el comando "ejecutar", luego ve a Configuración de
+       Windows> Plantillas Administrativas> Red> Programador de Paquetes
+       QoS> Limitar Ancho de Banda Reservado. Después, establece el Límite
+       de Ancho de Banda en 0%.
+     * Usar un DNS más rápido como OpenDNS o Google DNS.
+     * Evitar que se ejecuten programas de alto ancho de banda en segundo
+       plano.
+
+   2. El Internet puede volverse lento cuando compartes tu WiFi desde tu
+   PC debido a que se está dividiendo la velocidad de Internet disponibles
+   entre las conexiones. Además, tu PC está funcionando como un enrutador
+   y puede no estar equipado para manejar tantas conexiones a la vez,
+   especialmente si estás haciendo otras cosas en él. Adicionalmente, si
+   quien se está conectando a tu WiFi está utilizando muchos datos o ancho
+   de banda (por ejemplo, descargando archivos grandes o haciendo
+   streaming de vídeos), eso también ralentizará la velocidad.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.283
+
+   BotBeta dijo:
+
+   1. Para acelerar tu Internet en Windows 7, puedes, por ejemplo:
+     * Actualizar el navegador que estás utilizando.
+     * Asegurarte de que estás usando los controladores de red más
+       actualizados.
+     * Limitar el ancho de banda reservado de Windows: ingresa a
+       "gpedit.msc" en el comando "ejecutar", luego ve a Configuración de
+       Windows> Plantillas Administrativas> Red> Programador de Paquetes
+       QoS> Limitar Ancho de Banda Reservado. Después, establece el Límite
+       de Ancho de Banda en 0%.
+     * Usar un DNS más rápido como OpenDNS o Google DNS.
+     * Evitar que se ejecuten programas de alto ancho de banda en segundo
+       plano.
+
+   2. El Internet puede volverse lento cuando compartes tu WiFi desde tu
+   PC debido a que se está dividiendo la velocidad de Internet disponibles
+   entre las conexiones. Además, tu PC está funcionando como un enrutador
+   y puede no estar equipado para manejar tantas conexiones a la vez,
+   especialmente si estás haciendo otras cosas en él. Adicionalmente, si
+   quien se está conectando a tu WiFi está utilizando muchos datos o ancho
+   de banda (por ejemplo, descargando archivos grandes o haciendo
+   streaming de vídeos), eso también ralentizará la velocidad.
+   Hacer clic para expandir...
+
+   ¿Qué causamos cuando iniciamos el discurso con una frase célebre, la
+   cual busca capturar la atención del público?
+   Una impresión.
+   Una sorpresa.
+   Una exaltación.
+   Una simpatía.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.284
+
+   BotBeta dijo:
+
+   1. Para acelerar tu Internet en Windows 7, puedes, por ejemplo:
+     * Actualizar el navegador que estás utilizando.
+     * Asegurarte de que estás usando los controladores de red más
+       actualizados.
+     * Limitar el ancho de banda reservado de Windows: ingresa a
+       "gpedit.msc" en el comando "ejecutar", luego ve a Configuración de
+       Windows> Plantillas Administrativas> Red> Programador de Paquetes
+       QoS> Limitar Ancho de Banda Reservado. Después, establece el Límite
+       de Ancho de Banda en 0%.
+     * Usar un DNS más rápido como OpenDNS o Google DNS.
+     * Evitar que se ejecuten programas de alto ancho de banda en segundo
+       plano.
+
+   2. El Internet puede volverse lento cuando compartes tu WiFi desde tu
+   PC debido a que se está dividiendo la velocidad de Internet disponibles
+   entre las conexiones. Además, tu PC está funcionando como un enrutador
+   y puede no estar equipado para manejar tantas conexiones a la vez,
+   especialmente si estás haciendo otras cosas en él. Adicionalmente, si
+   quien se está conectando a tu WiFi está utilizando muchos datos o ancho
+   de banda (por ejemplo, descargando archivos grandes o haciendo
+   streaming de vídeos), eso también ralentizará la velocidad.
+   Hacer clic para expandir...
+
+   ¿Qué causamos cuando iniciamos el discurso con una frase célebre, la
+   cual busca capturar la atención del público?
+   Una impresión.
+   Una sorpresa.
+   Una exaltación.
+   Una simpatía.
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.285
+
+   Cibertec dijo:
+
+   ¿Qué causamos cuando iniciamos el discurso con una frase célebre, la
+   cual busca capturar la atención del público?
+   Una impresión.
+   Una sorpresa.
+   Una exaltación.
+   Una simpatía.
+   Hacer clic para expandir...
+
+   Iniciar un discurso con una frase célebre podría causar todas las
+   respuestas mencionadas dependiendo del contexto y la audiencia, pero en
+   general, es más probable que cause "Una impresión".
+   Una cita bien elegida puede establecer el tono para el resto de tu
+   discurso, destacar la relevancia de tus puntos y proporcionar una
+   visión atractiva desde el inicio. También puede establecer una
+   impresión sobre el nivel de preparación y conocimiento que tienes sobre
+   el tema del discurso.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.286
+
+   BotBeta dijo:
+
+   Iniciar un discurso con una frase célebre podría causar todas las
+   respuestas mencionadas dependiendo del contexto y la audiencia, pero en
+   general, es más probable que cause "Una impresión".
+   Una cita bien elegida puede establecer el tono para el resto de tu
+   discurso, destacar la relevancia de tus puntos y proporcionar una
+   visión atractiva desde el inicio. También puede establecer una
+   impresión sobre el nivel de preparación y conocimiento que tienes sobre
+   el tema del discurso.
+   Hacer clic para expandir...
+
+   ¿Cuál de las siguientes alternativas sería un buen ejemplo de frase
+   célebre?
+   "A Dios rogando y con el mazo dando"
+   "Saber más es ser más libres" - Mi profesor del instituto
+   "Las consecuencias económicas del COVID-19 son diversas y profundas"
+   "La verdadera felicidad consiste en hacer el bien" - Aristóteles
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.287
+
+   Cibertec dijo:
+
+   ¿Cuál de las siguientes alternativas sería un buen ejemplo de frase
+   célebre?
+   "A Dios rogando y con el mazo dando"
+   "Saber más es ser más libres" - Mi profesor del instituto
+   "Las consecuencias económicas del COVID-19 son diversas y profundas"
+   "La verdadera felicidad consiste en hacer el bien" - Aristóteles
+   Hacer clic para expandir...
+
+   La alternativa "La verdadera felicidad consiste en hacer el bien" -
+   Aristóteles es un buen ejemplo de frase célebre. Aristóteles es un
+   filósofo de la antigüedad ampliamente reconocido, y sus pensamientos y
+   reflexiones se consideran influyentes y respetados en la sociedad
+   moderna. Su autoría de la cita añade peso e impacto, haciéndola una
+   elección efectiva para iniciar un discurso.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.288
+
+   BotBeta dijo:
+
+   La alternativa "La verdadera felicidad consiste en hacer el bien" -
+   Aristóteles es un buen ejemplo de frase célebre. Aristóteles es un
+   filósofo de la antigüedad ampliamente reconocido, y sus pensamientos y
+   reflexiones se consideran influyentes y respetados en la sociedad
+   moderna. Su autoría de la cita añade peso e impacto, haciéndola una
+   elección efectiva para iniciar un discurso.
+   Hacer clic para expandir...
+
+   ¿Por qué se dice que las frases célebres resisten el tiempo?
+   Porque explican correctamente el tema que trata.
+   Porque controla imágenes que afectan al público o a quien va a recibir
+   la exposición.
+   Porque se tiene una idea formada en nuestra estructura cerebral y se
+   asocia a un autor.
+   Por el título de la exposición a las personas de la audiencia.
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.289
+
+   Cibertec dijo:
+
+   ¿Por qué se dice que las frases célebres resisten el tiempo?
+   Porque explican correctamente el tema que trata.
+   Porque controla imágenes que afectan al público o a quien va a recibir
+   la exposición.
+   Porque se tiene una idea formada en nuestra estructura cerebral y se
+   asocia a un autor.
+   Por el título de la exposición a las personas de la audiencia.
+   Hacer clic para expandir...
+
+   Las frases célebres resisten el tiempo, principalmente, "Porque se
+   tiene una idea formada en nuestra estructura cerebral y se asocia a un
+   autor".
+   Las frases célebres a menudo encapsulan una verdad o un insight
+   profundo que es válido a través de diferentes épocas y culturas. Cuando
+   se asocian estas frases a un autor famoso o respetado, adquieren un
+   grado adicional de autoridad. Además, estas frases a menudo se
+   transmiten a través de generaciones, reforzando su lugar en la
+   estructura colectiva de conocimiento e ideas de nuestra sociedad.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.290
+
+   BotBeta dijo:
+
+   Las frases célebres resisten el tiempo, principalmente, "Porque se
+   tiene una idea formada en nuestra estructura cerebral y se asocia a un
+   autor".
+   Las frases célebres a menudo encapsulan una verdad o un insight
+   profundo que es válido a través de diferentes épocas y culturas. Cuando
+   se asocian estas frases a un autor famoso o respetado, adquieren un
+   grado adicional de autoridad. Además, estas frases a menudo se
+   transmiten a través de generaciones, reforzando su lugar en la
+   estructura colectiva de conocimiento e ideas de nuestra sociedad.
+   Hacer clic para expandir...
+
+   ¿Cuál es la finalidad de la pregunta retórica?
+   Presentar el título de la exposición a las personas de la audiencia.
+   Relacionar el tema que se va a desarrollar con un hecho histórico
+   concreto, el cual debe ser relevante para la audiencia.
+   Registrar las respuestas de la audiencia.
+   Lograr que las personas de la audiencia realicen una introspección de
+   sí mismas
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.291
+
+   Cibertec dijo:
+
+   ¿Cuál es la finalidad de la pregunta retórica?
+   Presentar el título de la exposición a las personas de la audiencia.
+   Relacionar el tema que se va a desarrollar con un hecho histórico
+   concreto, el cual debe ser relevante para la audiencia.
+   Registrar las respuestas de la audiencia.
+   Lograr que las personas de la audiencia realicen una introspección de
+   sí mismas
+   Hacer clic para expandir...
+
+   La finalidad de una pregunta retórica es "Lograr que las personas de la
+   audiencia realicen una introspección de sí mismas".
+   Una pregunta retórica no está diseñada para ser respondida en voz alta
+   por la audiencia, sino para provocar pensamientos e introspección. A
+   menudo, estas preguntas se plantean en los discursos para hacer que la
+   audiencia reflexione sobre un punto en particular o para enfatizar o
+   reforzar un punto que el hablante está tratando de hacer.
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.292
+
+   Cibertec dijo:
+
+   ¿Qué causamos cuando iniciamos el discurso con una frase célebre, la
+   cual busca capturar la atención del público?
+   Una impresión.
+   Una sorpresa.
+   Una exaltación.
+   Una simpatía.
+   Hacer clic para expandir...
+
+   Sorry I couldn't contact the ChatGPT think tank :(
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.293
+
+   BotBeta dijo:
+
+   Sorry I couldn't contact the ChatGPT think tank :(
+   Hacer clic para expandir...
+
+   ¿Cuál es la finalidad de la pregunta retórica?
+   Presentar el título de la exposición a las personas de la audiencia.
+   Relacionar el tema que se va a desarrollar con un hecho histórico
+   concreto, el cual debe ser relevante para la audiencia.
+   Registrar las respuestas de la audiencia.
+   Lograr que las personas de la audiencia realicen una introspección de
+   sí mismas
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.294
+
+   Cibertec dijo:
+
+   ¿Cuál es la finalidad de la pregunta retórica?
+   Presentar el título de la exposición a las personas de la audiencia.
+   Relacionar el tema que se va a desarrollar con un hecho histórico
+   concreto, el cual debe ser relevante para la audiencia.
+   Registrar las respuestas de la audiencia.
+   Lograr que las personas de la audiencia realicen una introspección de
+   sí mismas
+   Hacer clic para expandir...
+
+   La finalidad principal de una pregunta retórica es "Lograr que las
+   personas de la audiencia realicen una introspección de sí mismas".
+   Las preguntas retóricas se utilizan para que los oyentes reflexionen
+   sobre lo que se está diciendo y participen de manera activa en su
+   mente, sin necesidad de responder en voz alta. Estas preguntas suelen
+   ser reflexivas y provocan el pensamiento, la comprensión y la
+   introspección en la audiencia.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.295
+
+   BotBeta dijo:
+
+   La finalidad principal de una pregunta retórica es "Lograr que las
+   personas de la audiencia realicen una introspección de sí mismas".
+   Las preguntas retóricas se utilizan para que los oyentes reflexionen
+   sobre lo que se está diciendo y participen de manera activa en su
+   mente, sin necesidad de responder en voz alta. Estas preguntas suelen
+   ser reflexivas y provocan el pensamiento, la comprensión y la
+   introspección en la audiencia.
+   Hacer clic para expandir...
+
+   Un buen ejemplo de pregunta retórica es el siguiente: "¿La AFP le ha
+   hecho perder dinero en los últimos meses?".
+   Verdadero
+   Falso
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.296
+
+   Cibertec dijo:
+
+   Un buen ejemplo de pregunta retórica es el siguiente: "¿La AFP le ha
+   hecho perder dinero en los últimos meses?".
+   Verdadero
+   Falso
+   Hacer clic para expandir...
+
+   Verdadero.
+   "¿La AFP le ha hecho perder dinero en los últimos meses?" es un buen
+   ejemplo de pregunta retórica, ya que busca provocar la reflexión y la
+   autointrospección en la audiencia sobre su experiencia personal con la
+   AFP, sin esperar una respuesta directa.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.297
+
+   BotBeta dijo:
+
+   Verdadero.
+   "¿La AFP le ha hecho perder dinero en los últimos meses?" es un buen
+   ejemplo de pregunta retórica, ya que busca provocar la reflexión y la
+   autointrospección en la audiencia sobre su experiencia personal con la
+   AFP, sin esperar una respuesta directa.
+   Hacer clic para expandir...
+
+   Relacione las columnas sobre los tipos de ingresos y egresos, según
+   corresponda.
+   - A. B. C. D. Gastos generales no relacionados con el tiempo de
+   ejecución de obra.
+   - A. B. C. D. Costos indirectos.
+   - A. B. C. D. Utilidad.
+   - A. B. C. D. Gastos generales relacionados con el tiempo de ejecución
+   de obra.
+   A. Son los costos que no están relacionados directamente a las partidas
+   del proyecto.
+   B. Son conocidos como gastos generales fijos.
+   C. Es un monto percibido por el contratista, porcentaje del costo
+   directo del presupuesto.
+   D. Son conocidos como gastos generales variables.
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.298
+
+   Cibertec dijo:
+
+   Relacione las columnas sobre los tipos de ingresos y egresos, según
+   corresponda.
+   - A. B. C. D. Gastos generales no relacionados con el tiempo de
+   ejecución de obra.
+   - A. B. C. D. Costos indirectos.
+   - A. B. C. D. Utilidad.
+   - A. B. C. D. Gastos generales relacionados con el tiempo de ejecución
+   de obra.
+   A. Son los costos que no están relacionados directamente a las partidas
+   del proyecto.
+   B. Son conocidos como gastos generales fijos.
+   C. Es un monto percibido por el contratista, porcentaje del costo
+   directo del presupuesto.
+   D. Son conocidos como gastos generales variables.
+   Hacer clic para expandir...
+
+   La relación correcta sería:
+   A. Gastos generales no relacionados con el tiempo de ejecución de obra
+   - B. Son conocidos como gastos generales fijos.
+   B. Costos indirectos - A. Son los costos que no están relacionados
+   directamente a las partidas del proyecto.
+   C. Utilidad - C. Es un monto percibido por el contratista, porcentaje
+   del costo directo del presupuesto.
+   D. Gastos generales relacionados con el tiempo de ejecución de obra -
+   D. Son conocidos como gastos generales variables.
+
+   Betacoin Enviar saldo
+
+   Cibertec
+
+Cibertec
+
+   Gamma
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+
+   Desde
+          11 Ago 2019
+
+   Mensajes
+          329
+
+     * 29 Oct 2023
+
+     *
+     * #13.299
+
+   BotBeta dijo:
+
+   La relación correcta sería:
+   A. Gastos generales no relacionados con el tiempo de ejecución de obra
+   - B. Son conocidos como gastos generales fijos.
+   B. Costos indirectos - A. Son los costos que no están relacionados
+   directamente a las partidas del proyecto.
+   C. Utilidad - C. Es un monto percibido por el contratista, porcentaje
+   del costo directo del presupuesto.
+   D. Gastos generales relacionados con el tiempo de ejecución de obra -
+   D. Son conocidos como gastos generales variables.
+   Hacer clic para expandir...
+
+   ¿Qué son las utilidades?
+   Es la unidad de medida que se emplea para medir los esfuerzos
+   necesarios para una tarea.
+   Es la realización del dibujo arquitectónico
+   Es el monto que percibe el contratista por ejecutar la obra.
+   Es la elaboración de los costos indirectos en obra
+
+   Betacoin Enviar saldo
+
+   BotBeta
+
+BotBeta
+
+   Admin
+   Sigma
+   Verificado
+   Verificación en dos pasos desactivada
+   Verificado por Whatsapp
+   ¡Usuario popular!
+   ¡Usuario con pocos negocios! ¡Utiliza siempre saldo de Forobeta!
+   Suscripción a IA
+
+   Desde
+          13 Jun 2020
+
+   Mensajes
+          24.382
+
+     * 29 Oct 2023
+
+     *
+     * #13.300
+
+   Cibertec dijo:
+
+   ¿Qué son las utilidades?
+   Es la unidad de medida que se emplea para medir los esfuerzos
+   necesarios para una tarea.
+   Es la realización del dibujo arquitectónico
+   Es el monto que percibe el contratista por ejecutar la obra.
+   Es la elaboración de los costos indirectos en obra
+   Hacer clic para expandir...
+
+   Las utilidades se refieren a "Es el monto que percibe el contratista
+   por ejecutar la obra."
+   En un contexto de negocio o proyecto, las utilidades suelen referirse a
+   los ingresos netos o ganancias que se obtienen después de descontar los
+   gastos, costos e impuestos asociados a la ejecución de la obra o al
+   desarrollo del proyecto.
+
+   Betacoin Enviar saldo
+
+   Ant
+     * 1
+     * …
+
+Ir a la página
+       662_________________
+       (BUTTON) Ir
+     * 663
+     * 664
+     * 665
+     * 666
+     * 667
+     * …
+
+Ir a la página
+       668_________________
+       (BUTTON) Ir
+     * 715
+
+   Siguiente
+   Primero Ant 665 de 715
+
+Ir a la página
+
+   665_________________
+   (BUTTON) Ir
+   Siguiente Último
+
+   ¡Regístrate y comienza a ganar!
+
+   Beneficios
+     * Gana dinero por participar
+     * Gana dinero por recomendarnos
+     * Descubre ofertas de empleo diariamente
+     * Negocios seguros
+     * ¡Información premium y más!
+
+   Registro
+
+   Acceder
+
+   ¿Ya tienes una cuenta? Accede aquí
+   Acceder
+   Compartir:
+   Enlace
+
+   Banahosting
+
+     * Foros
+
+     Comunidad
+
+     Fuera de tema
+
+   Banner Adsterra
+
+     * Original
+
+     * Manual
+     * WhatsApp
+     * Negocios seguros
+     * Reglas
+     * Política de privacidad
+     * RSS
+
+   Arriba
+
+   ____________________

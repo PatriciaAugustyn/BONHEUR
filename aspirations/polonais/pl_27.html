@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pl" xml:lang="pl">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-language" content="pl" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="global" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<title>Informacja &bull;  Forum prawa przyciągania</title>
+
+<link rel="alternate" type="application/atom+xml" title="Kanał - Forum prawa przyciągania" href="https://prawoprzyciagania.net/feed.php" /><link rel="alternate" type="application/atom+xml" title="Kanał - Najnowsze wątki" href="https://prawoprzyciagania.net/feed.php?mode=topics" />
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<script type="text/javascript">
+// <![CDATA[
+	var jump_page = 'Wprowadź numer strony, do której chcesz przejść:';
+	var on_page = '';
+	var per_page = '';
+	var base_url = '';
+	var style_cookie = 'phpBBstyle';
+	var style_cookie_settings = '; path=/; domain=.prawoprzyciagania.net';
+	var onload_functions = new Array();
+	var onunload_functions = new Array();
+
+	
+
+	/**
+	* Find a member
+	*/
+	function find_username(url)
+	{
+		popup(url, 760, 570, '_usersearch');
+		return false;
+	}
+
+	/**
+	* New function for handling multiple calls to window.onload and window.unload by pentapenguin
+	*/
+	window.onload = function()
+	{
+		for (var i = 0; i < onload_functions.length; i++)
+		{
+			eval(onload_functions[i]);
+		}
+	};
+
+	window.onunload = function()
+	{
+		for (var i = 0; i < onunload_functions.length; i++)
+		{
+			eval(onunload_functions[i]);
+		}
+	};
+
+// ]]>
+</script>
+<script type="text/javascript" src="./styles/prosilver/template/styleswitcher.js"></script>
+<script type="text/javascript" src="./styles/prosilver/template/forum_fn.js"></script>
+
+<link href="./styles/prosilver/theme/print.css" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="./style.php?id=1&amp;lang=pl&amp;sid=15e8fdbd19c37d6fa57ebb36a44dbe11" rel="stylesheet" type="text/css" media="screen, projection" />
+
+<link href="./styles/prosilver/theme/normal.css" rel="stylesheet" type="text/css" title="A" />
+<link href="./styles/prosilver/theme/medium.css" rel="alternate stylesheet" type="text/css" title="A+" />
+<link href="./styles/prosilver/theme/large.css" rel="alternate stylesheet" type="text/css" title="A++" />
+
+
+<script type="text/javascript">
+// <![CDATA[
+	/**
+	* Resize too large images
+	*/
+	var reimg_maxWidth = 640, reimg_maxHeight = 480, reimg_relWidth = 0;
+	var reimg_swapPortrait = true;
+	var reimg_loadingImg = "./images/spacer.gif";
+	var reimg_loadingStyle = "width: 16px; height: 16px; background: url(./styles/prosilver/imageset/icon_reimg_loading.gif) top left no-repeat; filter: Alpha(Opacity=50); opacity: .50;";
+	var reimg_loadingAlt = "Ładowanie...";
+	
+	var reimg_autoLink = true;
+	
+	var reimg_zoomImg = "./images/spacer.gif";
+	var reimg_zoomStyle = "width: 20px; height: 20px; background: url(./styles/prosilver/imageset/icon_reimg_zoom_in.gif) top left no-repeat; filter: Alpha(Opacity=50); opacity: .50;";
+	var reimg_zoomHover = "background-position: 0 100%; cursor: pointer; filter: Alpha(Opacity=100); opacity: 1.00;";
+	
+	var reimg_zoomAlt = "Powiększ (rzeczywiste wymiary: %1$d x %2$d)";
+	var reimg_zoomTarget = "_litebox";
+	var reimg_ajax_url = "https://prawoprzyciagania.net/reimg/reimg_ajax.php";
+
+	function reimg(img, width, height)
+	{
+		if (window.reimg_version)
+		{
+			reimg_resize(img, width, height);
+		}
+	}
+// ]]>
+</script>
+
+<script type="text/javascript" src="./reimg/reimg.js"></script>
+
+	
+<style type="text/css" media="screen, projection">
+<!--
+	
+	#topicreview .reimg-zoom { display: none; }
+	
+-->
+</style>
+	
+<script type="text/javascript">
+// <![CDATA[
+	/**
+	* Light box for resized images
+	*/
+	
+	var litebox_alt = "Pomniejsz";
+		
+	var litebox_zoomImg = reimg_zoomImg;
+	var litebox_zoomStyle = reimg_zoomStyle;
+	var litebox_zoomHover = reimg_zoomHover;
+	var litebox_zoomAlt = reimg_zoomAlt;
+			
+	var litebox_style = "cursor: pointer;"
+		
+	var litebox_closeImg = "./images/spacer.gif";
+	var litebox_closeStyle = "width: 20px; height: 20px; background: url(./styles/prosilver/imageset/icon_reimg_zoom_out.gif) top left no-repeat; filter: Alpha(Opacity=50); opacity: .50;";
+	var litebox_closeHover = reimg_zoomHover;
+	var litebox_closeAlt = "Pomniejsz";
+		
+	var litebox_rtl = false;
+	
+// ]]>
+</script>
+
+	
+<script type="text/javascript" src="./reimg/litebox.js"></script>
+	
+<style type="text/css" media="screen, projection">
+<!--
+	.attachbox { width: 97%; }
+	.attach-image
+	{
+		overflow: hidden;
+		max-height: none;
+	}
+-->
+</style>
+	
+<script type="text/javascript">
+// <![CDATA[
+	reimg_loading('./styles/prosilver/imageset/icon_reimg_loading.gif');
+// ]]>
+</script>
+
+
+<script type="text/javascript">
+// <![CDATA[
+      function spoile(id){
+       if (document.getElementById) {
+        var s = document.getElementById(id);
+        s.style.display = (s.style.display=='block'?'none':'block');
+        } 
+      }
+// ]]>
+</script>
+
+
+
+</head>
+
+<body id="phpbb" class="section-viewtopic ltr">
+
+<div id="wrap">
+	<a id="top" name="top" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar">
+			<div class="inner"><span class="corners-top"><span></span></span>
+
+			<div id="site-description">
+				<a href="./index.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Strona główna forum" id="logo"><img src="./styles/prosilver/imageset/tlo_nowe.png" width="205" height="150" alt="" title="" /></a>
+				<h1>Forum prawa przyciągania</h1>
+				<p>prawo przyciągania, kreacja życia, podświadomość</p>
+				<p class="skiplink"><a href="#start_here">Przejdź do zawartości</a></p>
+			</div>
+
+		
+			<div id="search-box">
+				<form action="./search.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" method="get" id="search">
+				<fieldset>
+					<input name="keywords" id="keywords" type="text" maxlength="128" title="Szukaj słów kluczowych" class="inputbox search" value="Szukaj…" onclick="if(this.value=='Szukaj…')this.value='';" onblur="if(this.value=='')this.value='Szukaj…';" />
+					<input class="button2" value="Szukaj" type="submit" /><br />
+					<a href="./search.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Pokaż zaawansowane opcje wyszukiwania">Wyszukiwanie zaawansowane</a> <input type="hidden" name="sid" value="15e8fdbd19c37d6fa57ebb36a44dbe11" />
+
+				</fieldset>
+				</form>
+			</div>
+		
+
+			<span class="corners-bottom"><span></span></span></div>
+		</div>
+
+		<div class="navbar">
+			<div class="inner"><span class="corners-top"><span></span></span>
+
+			<ul class="linklist navlinks">
+				<li class="icon-home"><a href="./index.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" accesskey="h">Strona główna forum</a> </li>
+
+				<li class="rightside"><a href="#" onclick="fontsizeup(); return false;" onkeypress="return fontsizeup(event);" class="fontsize" title="Zmień rozmiar tekstu">Zmień rozmiar tekstu</a></li>
+
+				
+			</ul>
+
+			
+
+			<ul class="linklist rightside">
+
+				
+				<li class="icon-faq"><a href="./faq.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Najczęściej zadawane pytania">FAQ</a></li>
+				<li class="icon-thanks_toplist"><a href="./toplist.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Toplista">Toplista</a></li><li class="icon-thanks"><a href="./thankslist.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Lista podziękowań">Podziękowania</a></li><li class="icon-register"><a href="./ucp.php?mode=register&amp;sid=15e8fdbd19c37d6fa57ebb36a44dbe11">Zarejestruj</a></li>
+					<li class="icon-logout"><a href="./ucp.php?mode=login&amp;sid=15e8fdbd19c37d6fa57ebb36a44dbe11" title="Zaloguj" accesskey="x">Zaloguj</a></li>
+				
+			</ul>
+
+			<span class="corners-bottom"><span></span></span></div>
+		</div>
+
+	</div>
+
+	<a name="start_here"></a>
+	<div id="page-body">
+		
+
+<div class="panel" id="message">
+	<div class="inner"><span class="corners-top"><span></span></span>
+	<h2>Informacja</h2>
+	<p>Ponieważ od ponad roku zauważyliśmy na forum znikomą, niemal zerową aktywność poza podglądaniem (a nie do tego służy forum), uznaliśmy że dalsze podtrzymywanie go jest nieopłacalne. W związku z powyższym, forum zostaje zamknięte od 1 grudnia 2023 r.</p>
+	
+	<span class="corners-bottom"><span></span></span></div>
+</div>
+
+</div>
+
+<div id="page-footer">
+
+	<div class="navbar">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		<ul class="linklist">
+			<li class="icon-home"><a href="./index.php?sid=15e8fdbd19c37d6fa57ebb36a44dbe11">Strona główna forum</a></li>
+				
+			<li class="rightside"><a href="./memberlist.php?mode=leaders&amp;sid=15e8fdbd19c37d6fa57ebb36a44dbe11">Ekipa</a> &bull; <a href="./ucp.php?mode=delete_cookies&amp;sid=15e8fdbd19c37d6fa57ebb36a44dbe11">Usuń ciasteczka</a> &bull; Strefa czasowa: UTC + 1 </li>
+		</ul>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	<div class="copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Group
+		<br />Przyjazne użytkownikom polskie wsparcie phpBB3 - <a href="http://phpbb3.pl">phpBB3.PL</a> <!-- Jeżeli chcesz usunąć tę wiadomość, znajdziesz ją w pliku language/pl/common.php. Prosimy jednak o nie usuwanie jej, a przynajmniej zostawienie samego linku do phpBB3.PL -->
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" name="bottom" accesskey="z"></a>
+	
+</div>
+
+</body>
+</html>

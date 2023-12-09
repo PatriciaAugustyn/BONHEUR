@@ -1,0 +1,222 @@
+   #Discussion:Bonheur Modifier Poképédia (fr) Flux Atom de Poképédia
+
+  Le Masque Turquoise est là, et tout le monde est invité à contribuer !
+   Des éléments du jeu sont présents sur le site, donc prenez garde lors
+                              de votre lecture.
+   Un nouvel horizon qui apporte de nombreuses nouveautés, donc beaucoup
+                        de travail sur Poképédia !
+  N'hésitez pas à consulter les pages d'aide et le serveur Discord en cas
+     de doute sur la rédaction, et n'oubliez pas de prévisualiser vos
+                     modifications avant de les publier.
+
+Discussion:Bonheur
+
+   De Poképédia
+   Aller à la navigation Aller à la recherche
+
+   bonjour je ne comprend pas comment optimaliser le bonheur et ou et la
+   jauge de bonheur merci de rep
+
+   Quid des coiffeurs du Souterrain de Doublonville ? Combien de points de
+   bonheurs rapporte-t-il chacun ?
+
+   Est-ce que vous pouvez mettre un tableau concernant la 3G? Merci
+   d'avance. ...Red / Scariggron [Miniature_0214_RS.gif]
+   [Miniature_0260_RS.gif] - (Scarhino?) 27 octobre 2010 à 09:08 (UTC)
+
+          Va falloir être plus explicite. GreyDragon (Question ?) 27
+          octobre 2010 à 09:10 (UTC)
+
+   [ ]
+
+Sommaire
+
+     * 1 Augmenter le bonheur
+     * 2 Qi
+     * 3 Impact sur la puissance ?
+     * 4 Message en plus
+     * 5 Bicyclette
+     * 6 Demande de précisisons
+     * 7 Quid des coeurs à la poké détente ?
+
+Augmenter le bonheur[modifier]
+
+   Bonjour, Moi j'ai un Riolu et je souhaiterais savoir quand est ce qu'il
+   évolue. Parce que je le fais monter de niveau mais avec un Multi exp.
+   donc je sais pas si ça marche pareil ! Donc merci d'avance pour ceux
+   qui m'aideront ! (ah oui et aussi, c'est ou qu'on voit comment il est
+   heureux ??)
+
+          "je souhaiterais savoir quand est ce qu'il évolue" : impossible
+          à dire ; ça peut être au niveau 2, 61 ou jamais.
+          Sinon, pour te répondre, toutes les façons d'augmenter le
+          bonheur dans la quatrième génération sont là.
+          Personnellement, je te conseille les 256 pas : avec de quoi
+          s'occuper à côté et un bon endroit (piste cyclable ou
+          Doublonville dans HGSS, Bonville dans DPP), c'est très rapide et
+          efficace.
+          Kathan - 31 août 2011 à 08:42 (UTC)
+
+Qi[modifier]
+
+   Est ce qie le qi dans pdm est un equivalent du bohneur, si oui doit il
+   etre max pour faire evoluer des pokemon comme nosferalto en nostenfer ?
+
+          ""Oui"" : Dans Donjon Mystère, c'est le QI qui est utilisé comme
+          la notion de bonheur n'y est pas présente. Il faut grosso modo
+          2.5 étoiles de QI pour que l'évo soit possible. --Mewtwo Ex
+          (discussion) 26 août 2012 à 17:31 (CEST)
+
+Impact sur la puissance ?[modifier]
+
+   J'ai entendu dire qu'un Pokémon peut devenir plus puissant avec du
+   bonheur, c'est vrai ? [Miniature_0245_XY.png] Suicune300 15 avril 2014
+   à 17:48 (CEST)
+
+          Oui et non : les seules attaques qui deviennent puis puissantes
+          suivant le bonheur, c'est Retour et Frustration. Quant à
+          l'affection à la Poké Récré (qui est une "stat" différente),
+          elle peut permettre de résister à un KO, se soigner d'un
+          changement de statut, d'esquiver plus facilement, et de porter
+          des coups critiques supplémentaires, mais n'a pas d'impact
+          direct sur la puissance de base d'une attaque. --Mewtwo Ex
+          (discussion) 16 avril 2014 à 00:13 (CEST)
+
+Message en plus[modifier]
+
+   Concernant la dame de Doublonville, celle-ci dit: Tu es vraiment un
+   amour... Un nuage de bonne humeur et de gentillesse flotte au-dessus de
+   toi; à propose de mon évolie over-dosé de calcium de toilettage.
+   J'imagine que ça correspond à un niveau élevé de bonheur mais je ne
+   vois pas ce message dans cette page. Je suis sous une version
+   cristal... (cet évolie reffuse toujours d'évoluer bien qu'il semble
+   être heureux et est au niveau 35!!!!!!)
+
+Bicyclette[modifier]
+
+   Est ce que le pokemon apprécie la bicyclette ? Car dans la Poké récré
+   il a l'air de voler dans tous les sens..
+
+          Non, c'est juste un petit effet, il n'a pas vraiment de
+          conséquences dans le jeu.
+          Prismi^ (d) 666 26 juin 2015 à 16:03 (UTC)
+
+   D'accord merci bien
+
+Demande de précisisons[modifier]
+
+   Bonjour,
+
+   du fait que la caractéristique (ou la jauge si vous préférez) du
+   bonheur n'est pas directement accessible au joueur, il est très
+   difficile d'avoir des informations précises. Je me pose des questions,
+   je n'ai pas les moyens d'avoir la réponse par moi-même, et ce serait
+   bien, si d'autres on les réponses, que cet article le précise.
+
+   Déjà, est-ce qu'une jauge 0-255 était déjà présente dans la 1ere
+   Génération ou est-ce qu'elle a été introduite dans la 2eme?
+
+   - si oui: quels versions sont concernés?
+
+   -- Seulement pour Pikachu dans la version Jaune? Ou est-ce que tous les
+   autres Pokémon sont aussi concerné par une jauge de bonheur 0-255 mais
+   "inévaluable" pour le joueur?
+
+   -- Quid des versions Verte, Rouge et Bleue? Pas de jauge ou jauge
+   "inévaluable"?
+
+   - si non: est-ce une autre solution d'échelonnage du bonheur qui est
+   utilisé pour Pikachu? Et qu'en est-il pour les autres Pokémon?
+
+   J'affirme dans ma modification de l'article que "le bonheur n'influence
+   pas l'obéissance des Pokémon", car ça été une idée répandu à l'arrivée
+   des Pokémon fin 1999. Mais est-ce vrai? L'experience de jeu tend à dire
+   que oui, mais ce n'est pas en soi une réponse formelle.
+
+          Salut. Comme mentionné initialement dans la page, c'est vraiment
+          apparu avec Jaune, et uniquement pour Pikachu. Rien avant ça.
+          --Mewtwo Ex (discussion) 6 septembre 2017 à 23:56 (UTC)
+
+Quid des coeurs à la poké détente ?[modifier]
+
+   Bonjour, si je comprends bien, les coeurs et l'amitié que tu vois a la
+   poké détente dans pokémon sl et usul n'ont rien a voir avec avec le
+   bohneur dont cette page parle ? --ClequiMent (discussion) 5 août 2019 à
+   15:22 (UTC)
+
+          Exactement, les cœurs d'affection sont une mécanique de jeu
+          différente. --Mewtwo Ex (discussion) 5 août 2019 à 17:33 (UTC)
+
+   Récupérée de
+   « https://www.pokepedia.fr/index.php?title=Discussion:Bonheur&oldid=247
+   9842 »
+
+Menu de navigation
+
+Outils personnels
+
+     * Non connecté(e)
+     * Discussion
+     * Contributions
+     * Créer un compte
+     * Se connecter
+
+Espaces de noms
+
+     * Page
+     * Discussion
+
+   [ ] français
+
+Affichages
+
+     * Lire
+     * Modifier
+     * Ajouter un sujet
+     * Voir l’historique
+
+   [ ] Plus
+
+   ____________________ Rechercher Lire
+
+Navigation
+
+     * Accueil
+     * Page au hasard
+     * Forum
+     * Discord
+     * Aide
+
+Contribuer
+
+     * Modifications récentes
+     * Tableau de bord
+     * Projets
+     * Premiers pas
+     * Bac à sable
+     * Conventions
+
+Outils
+
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Version imprimable
+     * Lien permanent
+     * Informations sur la page
+
+     * La dernière modification de cette page a été faite le 28 juin 2023
+       à 14:03.
+     * Le contenu est disponible sous licence Paternité-Pas d'Utilisation
+       Commerciale-Partage des Conditions Initiales à l'Identique 3.0 sauf
+       mention contraire.
+
+     * Politique de confidentialité
+     * À propos de Poképédia
+     * -
+     * Version mobile
+
+     * Paternité-Pas d'Utilisation Commerciale-Partage des Conditions
+       Initiales à l'Identique 3.0
+     * Powered by MediaWiki Powered by Semantic MediaWiki
