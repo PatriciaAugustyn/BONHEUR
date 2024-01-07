@@ -1,2 +1,3 @@
-# BONHEUR
-Voici le site web du cours PPE1
+# Bonheur
+
+Lien du site : https://patriciaaugustyn.github.io/BONHEUR/
